@@ -6,3 +6,18 @@ h1 {
 a {
     color: black;
 }
+
+#search {
+    background: white;
+    color: black;
+    margin-left: calc(50% - 100px);
+    border-radius: 20px;
+    padding: 10px 10px;
+}
+
+#search-btn {
+    border: 10px;
+    padding: 10px 10px;
+    margin-left: calc(56% - 100px);
+    border-radius: 50px;
+}
